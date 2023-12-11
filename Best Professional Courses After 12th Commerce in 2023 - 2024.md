@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="top-professional-courses-after-12th-commerce-in-2023---2024">Top Professional Courses After 12th Commerce in 2023 - 2024</h1>
 <p><img src="https://hackmd.io/_uploads/B1hZq8cZp.jpg" alt=""></p>
 <p>Congratulations on completing your 12th grade! You’ve embarked on the next exciting chapter of your life, and if you’re still unsure about your professional path, fret not. We’re here to assist you. We’ve compiled a list of the top 10 courses tailored for students who have completed their 10+2 from a commerce background.</p>
