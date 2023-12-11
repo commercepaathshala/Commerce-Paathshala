@@ -10,7 +10,7 @@ If you're looking to become a Chartered Accountant in India, then the CA Foundat
 ## Familiarize Yourself with the CA Foundation Syllabus and Exam Pattern:
 Understanding the CA Foundation syllabus for 2023 is essential for creating a solid study plan. The exam consists of four papers, with Papers 1 and 2 being subjective and Papers 3 and 4 being objective. The total marks for the exam are 400, with each paper carrying 100 marks. The comprehensive curriculum ensures candidates have a strong foundation in business and accounting concepts.
 
-Must Read: How Toppers Manage Studies and Time?
+Must Read: [How Toppers Manage Studies and Time](https://www.commercepaathshala.com/how-toppers-manage-studies-and-time/)?
 
 ## Create a Well-Structured Study Schedule:
 
@@ -36,5 +36,5 @@ Engage in solving mock test papers and previous exam papers to assess your knowl
 
 Believe in yourself. Cultivate a positive mindset. Visualize success, and let that drive your determination. A confident mindset can be the game-changer in conquering the CA Foundation Exam.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUzMTYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTU2OTI3OTE4NywtMTk5NTMxNjI0MV19
 -->
