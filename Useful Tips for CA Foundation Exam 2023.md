@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="useful-tips-for-ca-foundation-exam-2023">8 Useful Tips for CA Foundation Exam 2023</h1>
 <p><img src="https://hackmd.io/_uploads/Sye-AXG4a.jpg" alt="ca-foundation-tips"></p>
 <p>If you're looking to become a Chartered Accountant in India, then the CA Foundation Exam 2023 is an essential step. Administered by the Institute of Chartered Accountants of India (ICAI), this challenging and competitive exam consists of three levels: CA Foundation, CA Intermediate, and CA Final. To ensure your success on the upcoming exam, here are some proven tips that can help you excel:</p>
